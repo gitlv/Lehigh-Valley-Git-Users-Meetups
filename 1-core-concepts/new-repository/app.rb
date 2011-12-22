@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
- "This is the homepage"
+ "Hi my name is nick, this is my website."
 end
